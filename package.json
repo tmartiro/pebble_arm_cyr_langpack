@@ -1,0 +1,70 @@
+{
+  "name": "arm",
+  "author": "Tigran Martirosyan",
+  "version": "1.0.0",
+  "keywords": ["pebble-app"],
+  "private": true,
+  "dependencies": {},
+  "pebble": {
+    "displayName": "arm",
+    "uuid": "74a84302-19e1-4309-a5c6-80108cfb2155",
+    "sdkVersion": "3",
+    "enableMultiJS": true,
+    "targetPlatforms": [
+      "aplite",
+      "basalt",
+      "chalk",
+      "diorite"
+    ],
+    "watchapp": {
+      "watchface": false
+    },
+    "messageKeys": [
+      "dummy"
+    ],
+    "resources": {
+      "media": [
+        {
+          "type": "font",
+          "name": "ARNAMU_AA_14",
+          "file": "fonts/ARNAMU-AA_14.ttf"
+        },
+        {
+          "type": "font",
+          "name": "ARNAMU_AB_14",
+          "file": "fonts/ARNAMU-AB_14.ttf"
+        },
+        {
+          "type": "font",
+          "name": "ARNAMU_BA_18",
+          "file": "fonts/ARNAMU-BA_18.ttf"
+        },
+        {
+          "type": "font",
+          "name": "ARNAMU_BB_18",
+          "file": "fonts/ARNAMU-BB_18.ttf"
+        },
+        {
+          "type": "font",
+          "name": "ARNAMU_CA_24",
+          "file": "fonts/ARNAMU-CA_24.ttf"
+        },
+        {
+          "type": "font",
+          "name": "ARNAMU_CB_24",
+          "file": "fonts/ARNAMU-CB_24.ttf"
+        },
+        {
+          "type": "font",
+          "name": "ARNAMU_DA_28",
+          "file": "fonts/ARNAMU-DA_28.ttf"
+        },
+        {
+          "type": "font",
+          "name": "ARNAMU_DB_28",
+          "file": "fonts/ARNAMU-DB_28.ttf"
+        }
+      ]
+    }
+  }
+}
