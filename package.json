@@ -26,6 +26,16 @@
       "media": [
         {
           "type": "font",
+          "name": "ARNAMU_0A_12",
+          "file": "fonts/ARNAMU-0A_12.ttf"
+        },
+        {
+          "type": "font",
+          "name": "ARNAMU_0B_12",
+          "file": "fonts/ARNAMU-0B_12.ttf"
+        },
+        {
+          "type": "font",
           "name": "ARNAMU_AA_14",
           "file": "fonts/ARNAMU-AA_14.ttf"
         },
